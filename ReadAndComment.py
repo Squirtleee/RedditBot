@@ -1,5 +1,6 @@
 import praw
 
+#client_id, client_secret, and password are private info srry :)
 reddit=praw.Reddit(client_id='',
                   client_secret='',
                   username='BobaDayBot',
